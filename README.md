@@ -67,7 +67,7 @@ Aplicativo interativo em Swift Playgrounds que apresenta uma linha do tempo visu
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como **Desenvolvedor iOS (Júnior ou Estágio avançado)**, contribuindo com código de qualidade, aprendizado contínuo e colaboração em equipe.
+Busco oportunidade como **Desenvolvedor iOS (Júnior ou Estágio avançado)**, contribuindo com código de qualidade, aprendizado contínuo e colaboração em equipe.
 
 ---
 
